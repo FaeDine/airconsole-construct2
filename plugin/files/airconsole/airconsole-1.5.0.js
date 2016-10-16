@@ -17,6 +17,6 @@
   var head = document.getElementsByTagName('head')[0];
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src = 'https://www.airconsole.com/api/airconsole-1.3.0.js';
+  script.src = 'https://www.airconsole.com/api/airconsole-1.5.0.js';
   head.appendChild(script);
 })();
